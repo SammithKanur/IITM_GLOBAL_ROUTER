@@ -1,0 +1,5 @@
+services:
+  iitm_gr_srvc:
+    image: sammithkanur/iitm_gr:latest
+    container_name: iitm_gr
+    tty: true
